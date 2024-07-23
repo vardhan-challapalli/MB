@@ -1,1 +1,9 @@
 im working on this file
+ you make changes in VS Code and want to reflect those changes in GitHub, you need to follow these steps:
+
+Stage the Changes: Use git add to stage the changes.
+Commit the Changes: Use git commit to commit the staged changes with a descriptive message.
+Push the Changes: Use git push to push the committed changes to the remote repository on GitHub.
+Here’s how you can do it from the terminal or VS Code’s integrated terminal:
+
+Open Terminal in VS Code:git
