@@ -1,2 +1,2 @@
 # MB
-Mountblue practice
+Just practice repo Mountblue bootcamp
